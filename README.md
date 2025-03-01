@@ -1,4 +1,3 @@
-
 # 🚀 Suicide Case Study: Unveiling Hidden Patterns in Data  
 
 > **"Understanding the past to prevent the future."**  
@@ -13,9 +12,7 @@ This project is an in-depth **data-driven analysis** of suicide cases, aiming to
 
 📈 **Exploratory Data Analysis (EDA)** – Identifying correlations and trends with **graphs & statistical methods**.  
 
-🧠 **Machine Learning Models** – Predictive analysis to detect high-risk factors using AI-driven techniques.  
-
-📊 **Interactive Visualizations** – Stunning **heatmaps, histograms, and time-series plots** to bring data to life.  
+📊 **Interactive Visualizations** – Stunning **heatmaps, histograms and time-series plots** to bring data to life.  
 
 📌 **Real-World Impact** – Insights that could help researchers and policymakers address mental health challenges.  
 
